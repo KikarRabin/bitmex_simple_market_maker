@@ -19,3 +19,4 @@ TELEGRAM_BOT_TOKEN
 TELEGRAM_CHAT_ID
 
 you are ready to GO !
+# bitmex_simple_market_maker
