@@ -1,7 +1,8 @@
 BitMEX demo Market Maker
 ========================
 
-This is a simple market making bot for use with [BitMEX](https://www.bitmex.com/register/PAnz6M).
+This is a simple market making bot for use with bitmex
+(https://www.bitmex.com/register/PAnz6M).
 
 This code is a modification of the publicly available Bitmex Market Maker which can be found here https://github.com/BitMEX/sample-market-maker.
 
